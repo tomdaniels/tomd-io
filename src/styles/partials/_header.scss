@@ -1,0 +1,18 @@
+.tomd-header__section-wrap {
+  width: 100%;
+  background-color: $flat-blue;
+  display: flex;
+  justify-content: space-between;
+}
+
+.tomd-header__title {
+  color: $flat-grey-darker;
+  width: 55%;
+  margin: 0 auto;
+  padding: 20px 0;
+}
+
+.tomd-header__github-link {
+  text-decoration: none;
+  color: $flat-grey-light;
+}
