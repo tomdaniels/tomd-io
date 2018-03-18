@@ -1,3 +1,3 @@
 # tomd.io
 
-Online index of live projects
+Online portal to view/showcase live projects.
