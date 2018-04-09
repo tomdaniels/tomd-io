@@ -1,13 +1,13 @@
 const projects = [{
-    name: 'Project one',
-    description: 'description for project one',
-    url: 'localhost:3000',
-    github: 'github.com',
+    name: 'Expensify',
+    description: 'Expense tracking, list and calculate upcoming expenses.',
+    url: 'http://expensify.tomd.io',
+    github: 'github.com/tomdaniels/expensify',
 }, {
-    name: 'Project two',
-    description: 'description for project two',
-    url: 'localhost:3001',
-    github: 'github.com',
+    name: 'Indecision',
+    description: 'Stuck with a tricky decision? Put your life in the hands of a computer.',
+    url: 'http://indecision.tomd.io',
+    github: 'github.com/tomdaniels/indecision',
 }];
 
 export default projects;
